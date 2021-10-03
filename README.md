@@ -8,5 +8,5 @@ find trends among people who didn't show for their medical oppoinments, and thos
 tools used:
 
  - dataset(csv file) provided by kaggle. 
- - jupyter notebook.
+ - jupyter notebook(using python).
  - pandas,    numpy, matplotlib.
